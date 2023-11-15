@@ -1,6 +1,7 @@
 # Economic-Data-Project
 
-Project Description
+Project Description:
+
 Economic Data Analysis of US States
 
 This project delves into the economic landscape of the United States by harnessing the power of the FRED (Federal Reserve Economic Data) API.
@@ -18,7 +19,7 @@ Dynamic Visualizations: Employs effective graphs and charts to illustrate trends
 
 User-friendly Interaction: Designed for easy navigation and understanding, making economic analysis accessible to a wide audience.
 
-Economic Data Analysis of US States
+# Economic Data Analysis of US States
 
 Overview:
 
