@@ -8,8 +8,11 @@ This project delves into the economic landscape of the United States by harnessi
 Key features:
 
 Data Acquisition: Utilizes the FRED API for up-to-date and accurate economic data.
+
 Comprehensive Analysis: Covers all 50 states, providing a nationwide overview.
+
 Dynamic Visualizations: Employs effective graphs and charts to illustrate trends and patterns in the economic data.
+
 User-friendly Interaction: Designed for easy navigation and understanding, making economic analysis accessible to a wide audience.
 
 Economic Data Analysis of US States
